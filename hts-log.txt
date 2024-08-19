@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 Aug 2024 00:58:49 at https://testing-pied-ten-61.vercel.app/#explore https://testing-pied-ten-61.vercel.app/#faq +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://testing-pied-ten-61.vercel.app/#explore https://testing-pied-ten-61.vercel.app/#faq -O1 "C:\Users\SaifMElabd\Desktop\genuine" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:59:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+00:59:12	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/explore (from primary/primary)
+00:59:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/faq (from primary/primary)
+00:59:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/explore (from primary/primary)
+00:59:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/faq (from primary/primary)
+00:59:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/explore (from primary/primary)
+00:59:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/faq (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 36 links scanned, 28 files written (1229784 bytes overall) [628645 bytes received at 17462 bytes/sec], 918405 bytes transferred using HTTP compression in 12 files, ratio 32%
+(3 errors, 4 warnings, 0 messages)
